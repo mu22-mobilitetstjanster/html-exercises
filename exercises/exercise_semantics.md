@@ -1,4 +1,7 @@
-# Facebook clone
+# Börja här!
+Se denna introduktions video om semantiska taggar https://www.youtube.com/watch?v=bOUhq46fd5g
+
+## Facebook clone
 
 Ladda ner filen [semantic.html](assets/semantic.html) och följ instruktionerna i html dokumentet
 
