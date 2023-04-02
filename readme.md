@@ -10,4 +10,5 @@ Dessa är förslag på övningar men huvudsaken är att du har koll på hur html
 
 För att testa dig själv så föreslås det att du tar din favoritsida, plockar bort all css och javascript och sedan försöker återskapa innehållet på sidan med hjälp av endast html. Nedan är netflixs landningssida utan css eller javascript.
 
+### Netflix utan css och js
 ![netflix_empty](netflix_img.png)
