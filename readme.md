@@ -1,3 +1,6 @@
+## Material
+- [Samtliga "vanliga" taggar](https://www.w3schools.com/tags/ref_byfunc.asp)
+
 ## Övningar
 Dessa är förslag på övningar men huvudsaken är att du har koll på hur html struktueras upp och några av de vanligare taggarna. Alternativa övningar finns på [w3c school](https://www.w3schools.com/html/html_editors.asp) där de täcker nästintill alla taggar. 
 
